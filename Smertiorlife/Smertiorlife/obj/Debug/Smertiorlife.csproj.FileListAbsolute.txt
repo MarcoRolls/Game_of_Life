@@ -1,0 +1,11 @@
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe.config
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.pdb
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.TheGameOfLife.resources
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+C:\Users\Kirill\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
